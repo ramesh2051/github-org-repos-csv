@@ -12,8 +12,8 @@ GITHUB_ORG="my-org" GITHUB_TOKEN="my-token" node index.js
 # my-org.csv should now exist in your repository
 ```
 
-Required :
-"my-org" --- Name of the organization
-"my-token" --- PAT token with `repo` access authorize to that organization.
+### Required :
+- "my-org" --- Name of the organization
+- "my-token" --- PAT token with `repo` access authorize to that organization.
 
-please refer the link to create PAT token https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+- Please refer the link to create PAT token https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
