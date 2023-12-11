@@ -14,7 +14,7 @@
   "author": "Ramesh Kumar <rdasari415@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^17.11.0",
+    "@octokit/rest": "^20.0.2",
     "csv-writer": "^1.6.0"
   }
 }
